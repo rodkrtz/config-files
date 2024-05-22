@@ -1,3 +1,3 @@
 sudo rm /etc/nixos/configuration.nix
 
-stow -t /etc/nixos ~/config-files/nixos-config
+sudo stow -t /etc/nixos nixos-config
